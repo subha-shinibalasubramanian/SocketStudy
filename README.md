@@ -78,9 +78,6 @@ c.close()
 break
 ```
 
-## OUTPUT
-
-![EX-1 client_output](https://github.com/subha-shinibalasubramanian/SocketStudy/assets/164154478/ef87788c-141c-4876-a6c7-ebe0f96e95a6)
 
 
 
@@ -96,7 +93,11 @@ while True:
 ```
 
 ## OUTPUT
+**CLIENT:**
 
+![EX-1 client_output](https://github.com/subha-shinibalasubramanian/SocketStudy/assets/164154478/ef87788c-141c-4876-a6c7-ebe0f96e95a6)
+
+**SERVER:**
 ![Ex-1 server_output - Copy](https://github.com/subha-shinibalasubramanian/SocketStudy/assets/164154478/4d9e7567-a8f9-46c6-ae4a-9801a33d4891)
 
 
